@@ -1,0 +1,4 @@
+{"id": "q1", "question": "What is the maximum weight of a single EURO STOXX 50 component?", "answerable": true, "doc_id": "stoxx", "pages": [101], "key_facts": ["10%"]}
+{"id": "q2", "question": "How long must a small IPO have traded before an MSCI index review?", "answerable": true, "doc_id": "msci", "pages": [21], "key_facts": [["three months", "3 months"]]}
+{"id": "q3", "question": "Which closing FX rates does MSCI use?", "answerable": true, "doc_id": "msci", "pages": [45], "key_facts": ["WMR", ["4PM London", "4 pm London"]], "forbidden_facts": [{"any": ["except latin american"], "unless": ["2000"]}], "style": "paraphrase"}
+{"id": "q4", "question": "What is the maximum weight of a single stock in the Nasdaq-100?", "answerable": false}

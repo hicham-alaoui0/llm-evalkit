@@ -1,0 +1,4 @@
+{"id": "q1", "answer": "Components are capped at a maximum weight of 10% [1].", "citations": [["stoxx", 101]], "retrieved": [["stoxx", 101], ["stoxx", 102]]}
+{"id": "q2", "answer": "The new issue must have traded for at least 3 months [2].", "citations": [["msci", 21]], "retrieved": [["msci", 21]]}
+{"id": "q3", "answer": "WMR rates at 4PM London, except Latin American countries [1].", "citations": [["msci", 45]], "retrieved": [["msci", 45]]}
+{"id": "q4", "answer": "NOT_FOUND"}
